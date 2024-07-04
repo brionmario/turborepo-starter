@@ -17,16 +17,19 @@
   <!-- UNCOMMENT-START: Uncomment this -->
   <!-- <p align="center">
     <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
-      <img src="https://img.shields.io/npm/v/<__NPM_PACKAGE_NAME__>.svg" alt="version" />
+      <img src="https://img.shields.io/npm/v/<__NPM_PACKAGE_NAME__>.svg" alt="npm version" />
+    </a>
+    <a href="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/build.yml">
+      <img src="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/build.yml/badge.svg" alt="Build" />
     </a>
     <a href="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/test.yml">
-      <img src="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/test.yml/badge.svg" alt="test" />
+      <img src="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/test.yml/badge.svg" alt="Test" />
     </a>
     <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
-      <img src="https://img.shields.io/npm/dm/<__NPM_PACKAGE_NAME__>.svg" alt="downloads" />
+      <img src="https://img.shields.io/npm/dm/<__NPM_PACKAGE_NAME__>.svg" alt="Downloads" />
     </a>
     <a href="https://packagephobia.now.sh/result?p=<__NPM_PACKAGE_NAME__>">
-      <img src="https://packagephobia.now.sh/badge?p=<__NPM_PACKAGE_NAME__>" alt="install size" />
+      <img src="https://packagephobia.now.sh/badge?p=<__NPM_PACKAGE_NAME__>" alt="Install size" />
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
@@ -37,16 +40,19 @@
   <!-- DELETE-START: Uncomment this -->
   <p align="center">
     <a href="https://npmjs.org/package/turborepo-starter">
-      <img src="https://img.shields.io/npm/v/turborepo-starter.svg" alt="version" />
+      <img src="https://img.shields.io/npm/v/turborepo-starter.svg" alt="npm version" />
+    </a>
+    <a href="https://github.com/brionmario/turborepo-starter/actions/workflows/build.yml">
+      <img src="https://github.com/brionmario/turborepo-starter/actions/workflows/build.yml/badge.svg" alt="Build" />
     </a>
     <a href="https://github.com/brionmario/turborepo-starter/actions/workflows/test.yml">
-      <img src="https://github.com/brionmario/turborepo-starter/actions/workflows/test.yml/badge.svg" alt="test" />
+      <img src="https://github.com/brionmario/turborepo-starter/actions/workflows/test.yml/badge.svg" alt="Test" />
     </a>
     <a href="https://npmjs.org/package/turborepo-starter">
-      <img src="https://img.shields.io/npm/dm/turborepo-starter.svg" alt="downloads" />
+      <img src="https://img.shields.io/npm/dm/turborepo-starter.svg" alt="Downloads" />
     </a>
     <a href="https://packagephobia.now.sh/result?p=turborepo-starter">
-      <img src="https://packagephobia.now.sh/badge?p=turborepo-starter" alt="install size" />
+      <img src="https://packagephobia.now.sh/badge?p=turborepo-starter" alt="Install size" />
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
