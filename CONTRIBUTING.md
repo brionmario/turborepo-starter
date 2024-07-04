@@ -36,12 +36,12 @@ To build and write code, make sure you have the following set of tools on your l
 > [!Note]
 > You can pick any IDE of your choice, but we recommend using [VS Code](https://code.visualstudio.com/download) due to its extensive support for JavaScript and TypeScript development. !
 
-#### [Git](https://git-scm.com/downloads)
+#### [![Git](https://img.shields.io/badge/Git-2.33.0-green.svg)](https://git-scm.com/downloads)
 
 * Description 🗒️ : Open source distributed version control system.
 * Download Link 🔗 : [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
-#### [NodeJS](https://nodejs.org/en/download/)
+#### NodeJS
 
 * Description 🗒️ : JavaScript runtime.
 * Version: LTS (Latest Stable Version)
@@ -49,7 +49,7 @@ To build and write code, make sure you have the following set of tools on your l
   > This project requires at least NodeJS **v20.13.1** or above to work.
 * Download Link 🔗 : [https://nodejs.org/en/download](https://nodejs.org/en/download)
 
-#### [pnpm](https://pnpm.io)
+#### pnpm
 
 * Description 🗒️ : Fast, disk space efficient package manager.
 * Version: Latest (**v9.4.0** or higher)
