@@ -1,6 +1,6 @@
 # This workflow will run tests on the main branch once a PR is merged.
 
-name: 🧱 Builder
+name: 🧪 Test
 
 on:
   push:
@@ -13,7 +13,7 @@ env:
 
 jobs:
   build:
-    name: 🧪 Test
+    name: 👩🏻‍🔬 Test
     if: ${{ github.ref == 'refs/heads/main' }}
     strategy:
       matrix:
