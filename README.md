@@ -1,11 +1,21 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/25959096/206864705-83b29b8f-049d-45d2-8ed4-06ec38d0bcad.svg" alt="Brion Marios's memoji" height="80" width="auto">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/4060187/196936123-f6e1db90-784d-4174-b774-92502b718836.png">
+    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" height="80" width="auto">
+  </picture>
+  <picture>
+    <img src="https://github.com/brionmario/turborepo-starter/assets/25959096/5f45c917-5165-446a-ab84-12e7e5c63844" alt="Slash" height="80" width="auto">
+  </picture>
+  <picture>
+    <img src="https://user-images.githubusercontent.com/25959096/206864705-83b29b8f-049d-45d2-8ed4-06ec38d0bcad.svg" alt="Brion Marios's memoji" height="80" width="auto">
+  </picture>
 
   <h1 align="center">
     Turborepo Starter-Kit
   </h1>
 
-  <p align="center">
+  <!-- UNCOMMENT-START: Uncomment this -->
+  <!-- <p align="center">
     <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
       <img src="https://img.shields.io/npm/v/<__NPM_PACKAGE_NAME__>.svg" alt="version" />
     </a>
@@ -15,16 +25,34 @@
     <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
       <img src="https://img.shields.io/npm/dm/<__NPM_PACKAGE_NAME__>.svg" alt="downloads" />
     </a>
-    <a href="https://licenses.dev/npm/<__NPM_PACKAGE_NAME__>">
-      <img src="https://licenses.dev/b/npm/<__NPM_PACKAGE_NAME__>" alt="licenses" />
-    </a>
     <a href="https://packagephobia.now.sh/result?p=<__NPM_PACKAGE_NAME__>">
       <img src="https://packagephobia.now.sh/badge?p=<__NPM_PACKAGE_NAME__>" alt="install size" />
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
     </a>
+  </p> -->
+  <!-- UNCOMMENT-END: Uncomment this -->
+  
+  <!-- DELETE-START: Uncomment this -->
+  <p align="center">
+    <a href="https://npmjs.org/package/turborepo-starter">
+      <img src="https://img.shields.io/npm/v/turborepo-starter.svg" alt="version" />
+    </a>
+    <a href="https://github.com/brionmario/turborepo-starter/actions/workflows/test.yml">
+      <img src="https://github.com/brionmario/turborepo-starter/actions/workflows/test.yml/badge.svg" alt="test" />
+    </a>
+    <a href="https://npmjs.org/package/turborepo-starter">
+      <img src="https://img.shields.io/npm/dm/turborepo-starter.svg" alt="downloads" />
+    </a>
+    <a href="https://packagephobia.now.sh/result?p=turborepo-starter">
+      <img src="https://packagephobia.now.sh/badge?p=turborepo-starter" alt="install size" />
+    </a>
+    <a href="./LICENSE">
+      <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    </a>
   </p>
+  <!-- DELETE-END: Uncomment this -->
 
   <p align="center">
     <b>
@@ -67,9 +95,17 @@ Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instructions
 
 ## 👨‍💻 Contributors
 
-<a href="https://github.com/<__GITHUB_USERNAME__>/graphs/contributors">
+<!-- UNCOMMENT-START: Uncomment this -->
+<!-- <a href="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>" />
+</a> -->
+<!-- UNCOMMENT-END: Uncomment this -->
+
+<!-- DELETE-START: Uncomment this -->
+<a href="https://github.com/brionmario/turborepo-starter/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brionmario/turborepo-starter" />
 </a>
+<!-- DELETE-START: Uncomment this -->
 
 ## License
 
