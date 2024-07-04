@@ -1,0 +1,45 @@
+{
+  "private": true,
+  "name": "pastel-color-generator-workspace",
+  "version": "0.1.0",
+  "description": "A lightweight npm package for generating pastel colors based on text input.",
+  "keywords": [
+    "pastel",
+    "color",
+    "generator",
+    "color-generator",
+    "pastel-color-generator"
+  ],
+  "homepage": "https://github.com/brionmario/pastel-color-generator#readme",
+  "bugs": {
+    "url": "https://github.com/brionmario/pastel-color-generator/issues"
+  },
+  "license": "MIT",
+  "author": "Brion Mario",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brionmario/pastel-color-generator"
+  },
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,cjs,css,json,md,mdx,yml}\"",
+    "lint": "turbo lint",
+    "publish:packages": "changeset publish",
+    "version:packages": "changeset version && pnpm install --lockfile-only"
+  },
+  "devDependencies": {
+    "@brionmario/eslint-plugin": "^0.2.9",
+    "@brionmario/prettier-config": "^0.1.0",
+    "@changesets/changelog-github": "^0.5.0",
+    "@changesets/cli": "^2.27.1",
+    "eslint": "^8.57.0",
+    "eslint-config-turbo": "^1.13.3",
+    "prettier": "^3.2.5",
+    "turbo": "latest"
+  },
+  "packageManager": "pnpm@8.9.0",
+  "engines": {
+    "node": ">=18"
+  }
+}
