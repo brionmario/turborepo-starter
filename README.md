@@ -34,6 +34,9 @@
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
     </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/" alt="Commitizen friendly" />
+    </a>
   </p> -->
   <!-- UNCOMMENT-END: Uncomment this -->
   
@@ -56,6 +59,9 @@
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/" alt="Commitizen friendly" />
     </a>
   </p>
   <!-- DELETE-END: Uncomment this -->
