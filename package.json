@@ -1,24 +1,20 @@
 {
   "private": true,
-  "name": "pastel-color-generator-workspace",
-  "version": "0.1.0",
-  "description": "A lightweight npm package for generating pastel colors based on text input.",
+  "name": "<__JS_NPM_PACKAGE_NAME__>",
+  "version": "0.0.0",
+  "description": "<__WORKSPACE_DESCRIPTION__>",
   "keywords": [
-    "pastel",
-    "color",
-    "generator",
-    "color-generator",
-    "pastel-color-generator"
+    "<__WORKSPACE_KEYWORDS__>"
   ],
-  "homepage": "https://github.com/brionmario/pastel-color-generator#readme",
+  "homepage": "https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>#readme",
   "bugs": {
-    "url": "https://github.com/brionmario/pastel-color-generator/issues"
+    "url": "https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/issues"
   },
   "license": "MIT",
-  "author": "Brion Mario",
+  "author": "<__GITHUB_DISPLAY_NAME__>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/brionmario/pastel-color-generator"
+    "url": "https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>"
   },
   "scripts": {
     "build": "turbo build",

@@ -16,8 +16,8 @@
 
   <!-- UNCOMMENT-START: Uncomment this -->
   <!-- <p align="center">
-    <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
-      <img src="https://img.shields.io/npm/v/<__NPM_PACKAGE_NAME__>.svg" alt="npm version" />
+    <a href="https://npmjs.org/package/<__MAIN_NPM_PACKAGE_NAME__>">
+      <img src="https://img.shields.io/npm/v/<__MAIN_NPM_PACKAGE_NAME__>.svg" alt="npm version" />
     </a>
     <a href="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/build.yml">
       <img src="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/build.yml/badge.svg" alt="Build" />
@@ -25,11 +25,11 @@
     <a href="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/test.yml">
       <img src="https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/actions/workflows/test.yml/badge.svg" alt="Test" />
     </a>
-    <a href="https://npmjs.org/package/<__NPM_PACKAGE_NAME__>">
-      <img src="https://img.shields.io/npm/dm/<__NPM_PACKAGE_NAME__>.svg" alt="Downloads" />
+    <a href="https://npmjs.org/package/<__MAIN_NPM_PACKAGE_NAME__>">
+      <img src="https://img.shields.io/npm/dm/<__MAIN_NPM_PACKAGE_NAME__>.svg" alt="Downloads" />
     </a>
-    <a href="https://packagephobia.now.sh/result?p=<__NPM_PACKAGE_NAME__>">
-      <img src="https://packagephobia.now.sh/badge?p=<__NPM_PACKAGE_NAME__>" alt="Install size" />
+    <a href="https://packagephobia.now.sh/result?p=<__MAIN_NPM_PACKAGE_NAME__>">
+      <img src="https://packagephobia.now.sh/badge?p=<__MAIN_NPM_PACKAGE_NAME__>" alt="Install size" />
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
@@ -83,22 +83,22 @@
 
 | Package | Version | Description |
 |---------|---------|-------------|
-| [`<__NPM_PACKAGE_NAME__>`](https://npmjs.org/package/<__NPM_PACKAGE_NAME__>) | [![npm](https://img.shields.io/npm/v/<__NPM_PACKAGE_NAME__>.svg)](https://npmjs.org/package/<__NPM_PACKAGE_NAME__>) | <__NPM_PACKAGE_DESCRIPTION__> |
+| [`<__MAIN_NPM_PACKAGE_NAME__>`](https://npmjs.org/package/<__MAIN_NPM_PACKAGE_NAME__>) | [![npm](https://img.shields.io/npm/v/<__MAIN_NPM_PACKAGE_NAME__>.svg)](https://npmjs.org/package/<__MAIN_NPM_PACKAGE_NAME__>) | <__NPM_PACKAGE_DESCRIPTION__> |
 
 ## Installation
 
 To install the dependencies for all packages, run:
 
 ```bash
-npm install <__NPM_PACKAGE_NAME__>
+npm install <__MAIN_NPM_PACKAGE_NAME__>
 ```
 
 ## Usage
 
 ```javascript
-import { <__NPM_PACKAGE_NAME__> } from '<__NPM_PACKAGE_NAME__>';
+import { <__MAIN_NPM_PACKAGE_NAME__> } from '<__MAIN_NPM_PACKAGE_NAME__>';
 
-// Use <__NPM_PACKAGE_NAME__> here
+// Use <__MAIN_NPM_PACKAGE_NAME__> here
 ```
 
 ## Contributing
