@@ -1,7 +1,7 @@
 /**
  * MIT License
  *
- * Copyright (c) 2023, Brion Mario
+ * Copyright (c) 2024, Brion Mario.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -22,18 +22,8 @@
  * SOFTWARE.
  */
 
-import greet from '../greet';
+export {default as Greet} from './Greeting';
+export * from './Greeting';
 
-describe('greet function', () => {
-  it('should return a greeting message with the given display name', () => {
-    const displayName = 'Brion';
-    const result = greet(displayName);
-    expect(result).toBe('Hello! Brion');
-  });
-
-  it('should return a greeting message with another given display name', () => {
-    const displayName = 'Mario';
-    const result = greet(displayName);
-    expect(result).toBe('Hello! Mario');
-  });
-});
+export {default as useGreeting} from './useGreeting';
+export * from

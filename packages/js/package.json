@@ -23,7 +23,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/<__GITHUB_USERNAME__>/<__GITHUB_REPOSITORY_NAME__>/",
-    "directory": "packages/<__MAIN_NPM_PACKAGE_NAME__>"
+    "directory": "packages/<__MAIN_NPM_PACKAGE_DIRECTORY__>"
   },
   "scripts": {
     "build": "pnpm clean:dist && rollup -c rollup.config.cjs",
